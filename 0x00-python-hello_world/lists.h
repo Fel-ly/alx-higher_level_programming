@@ -8,9 +8,7 @@
  *
  * @num: number
  * @next: points to the node that is next
- *
  */
-
 typedef struct listint_s
 {
 	int num;
